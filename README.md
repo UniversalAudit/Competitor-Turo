@@ -1,0 +1,2 @@
+# Competitor-Turo
+Truck: https://turo.com/us/en/search?country=US&amp;defaultZoomLevel=11&amp;delivery=false&amp;endDate=08%2F30%2F2022&amp;endTime=10%3A00&amp;isMapSearch=false&amp;itemsPerPage=200&amp;latitude=29.9915684&amp;location=Current%20location&amp;locationType=CURRENT_LOCATION&amp;longitude=-90.1392987&amp;pickupType=ALL&amp;region=LA&amp;sortType=RELEVANCE&amp;startDate=08%2F29%2F2022&amp;startTime=10%3A00&amp;type=11&amp;useDefaultMaximumDistance=true
